@@ -13,7 +13,7 @@
 }
 
 .cabecalho-imagem{
-    alurastart logo.png
+    <img class="cabecalho" src=alurastart logo.png
     width: 20%;
 }
 
